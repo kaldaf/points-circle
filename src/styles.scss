@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+
+*,
+::after,
+::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.button-group {
+  display: flex !important;
+  flex-direction: column-reverse !important;
+  box-shadow: none !important;
+  button{
+    margin-bottom: 0.2rem !important;
+    border-radius: 8px !important;
+    &:hover{
+      color: #0c57fb !important;
+    }
+  }
+}
