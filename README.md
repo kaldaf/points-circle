@@ -1,2 +1,2 @@
 ## Celý článek ⤵
-[blog.filipkalousek.cz](https://blog.filipkalousek.cz/api-mapy-01)
+[blog.filipkalousek.cz](https://blog.filipkalousek.cz/mapycz/api-mapy-02)
